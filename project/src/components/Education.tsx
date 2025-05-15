@@ -4,7 +4,7 @@ import { Bookmark, GraduationCap, Award } from 'lucide-react';
 const educationData = [
   {
     id: 1,
-    years: "2023 - Present",
+    years: "2024 - Present",
     institution: "Sphoorthy Engineering College",
     degree: "B.Tech in Data Science",
     description: "Currently pursuing a Bachelor's degree in Data Science, focusing on the intersection of computer science, statistics, and domain expertise to extract knowledge and insights from data.",
@@ -13,7 +13,7 @@ const educationData = [
   },
   {
     id: 2,
-    years: "2021 - 2023",
+    years: "2022 - 2024",
     institution: "Narayana Junior College",
     degree: "Intermediate Education",
     description: "Completed intermediate education with an impressive 94% overall score, demonstrating strong academic capabilities and dedication to learning.",
@@ -23,7 +23,7 @@ const educationData = [
   },
   {
     id: 3,
-    years: "2020 - 2021",
+    years: "2021 - 2022",
     institution: "Jyoti Vijay Niketan CBSE School",
     degree: "High School Education",
     description: "Received a comprehensive foundation in various subjects following the CBSE curriculum, which emphasized both academic excellence and holistic development.",
